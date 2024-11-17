@@ -56,7 +56,7 @@
 <div>
   <h3>Desarollado por</h3>
   <ul>
-  <li><strong>Isaac Mena</strong>s</li>
+  <li><strong>Isaac Mena</strong></li>
 </ul>
 </div>
 </div>
