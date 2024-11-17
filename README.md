@@ -53,5 +53,10 @@
   </p>
 </div>
 
-  
+<div>
+  <h3>Desarollado por</h3>
+  <ul>
+  <li>Isaac Mena</li>
+</ul>
+</div>
 </div>
