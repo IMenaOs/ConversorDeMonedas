@@ -10,13 +10,13 @@
 
 <p>El convertidor de monedas tiene la siguiente programacion:</p>
 <ol>
-  <li>1. Convertir de USD a ARS (dolar a peso argentino)</li>
-  <li>2. Convertir de ARS a USD (perso argentino a dolar)</li>
-  <li>3. Convertir de USD a BRL (dolar a real brasileno)</li>
-  <li>4. Convertir de BRL a USD (real brasileno a dolar)</li>
-  <li>5. Convertir de USD a COP (dolar a peso colombiano)</li>
-  <li>6. Convertir de COP a USD (perso colombiano a dolar)</li>
-  <li>7.Salir del programa</li>
+  <li>Convertir de USD a ARS (dolar a peso argentino)</li>
+  <li>Convertir de ARS a USD (perso argentino a dolar)</li>
+  <li>Convertir de USD a BRL (dolar a real brasileno)</li>
+  <li>Convertir de BRL a USD (real brasileno a dolar)</li>
+  <li>Convertir de USD a COP (dolar a peso colombiano)</li>
+  <li>Convertir de COP a USD (perso colombiano a dolar)</li>
+  <li>Salir del programa</li>
 </ol>
 
 <div>
